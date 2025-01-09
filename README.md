@@ -1,4 +1,4 @@
-# Visao_Computacional_Detector_maos
+# Visao_Computacional
 Repositório com próposito de explorar bibliotecas da área de Visão Computacional
 
 --
