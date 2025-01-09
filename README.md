@@ -5,8 +5,8 @@ Necessário instalação da biblioteca "mediapipe" e python versão 3.7 a 3.9 - 
 
 --
 
-Detector de Mãos - Em andamento
-Detector Geral. - Em andamento 
+* Detector de Mãos - Em andamento
+* Detector Geral. - Em andamento 
 
 --
 
