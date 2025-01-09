@@ -8,4 +8,4 @@ Detector Geral. - Em andamento
 
 --
 
-Publicação de vídeo demonstrando funcionalidade.
+Publicação de vídeo demonstrando funcionalidade - Em andamento
