@@ -4,3 +4,8 @@ Repositório com próposito de explorar bibliotecas da área de Visão Computaci
 --
 
 Detector de Mãos - Em andamento
+Detector Geral. - Em andamento 
+
+--
+
+Publicação de vídeo demonstrando funcionalidade.
